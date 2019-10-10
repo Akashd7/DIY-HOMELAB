@@ -1,2 +1,3 @@
 # DIY-HOMELAB
- How to start a homelab
+
+In this Repo i'll document how to start a basic homelab
